@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Şerif Ceylan</h1>
 <h3 align="center">Devops and GNU/Linux enthusiast...</h3>
 
-- 📝 I regularly write articles on [serif.website](mehmetserifceylan.com)
+- 📝 I regularly write articles on [mehmetserifceylan.com](mehmetserifceylan.com)
 
 - 💬 Ask me about **Devops and GNU/Linux Technologies**
 
